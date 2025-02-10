@@ -1,0 +1,17 @@
+{
+    "name": "doge202/wanted-whatsapp-encryption",
+    "description": "Test task for wanted",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
