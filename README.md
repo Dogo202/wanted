@@ -7,4 +7,4 @@ This package provides PSR-7 stream decorators for encrypting and decrypting data
 Install via Composer:
 
 ```bash
-composer require yourname/whatsapp-encryption
+composer require doge202/wanted-whatsapp-encryption
